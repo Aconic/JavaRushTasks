@@ -1,9 +1,10 @@
-package com.javarush.task.task03.task0320;
-
+package com.javarush.task.task03.task0319;
 
 /* 
-Скромность украшает программиста
+Предсказание на будущее
 */
+
+import java.io.*;
 
 public class Solution {
     public static void main(String[] args) throws Exception {
