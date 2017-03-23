@@ -14,7 +14,6 @@ public class Solution {
         Blue blue = new Blue();
         Indigo indigo = new Indigo();
         Violet violet = new Violet();
-
     }
 
     public static class Red {
